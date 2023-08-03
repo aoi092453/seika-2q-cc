@@ -1,8 +1,11 @@
 # seika-2q-cc
 
 ## プロフィール
+
 name: 川崎蒼生
+
 job:京都精華大学メディア表現学部メディア表現学科メディア情報専攻
+
 mail:k221t047@st.kyoto-seika.ac.jp
 
 
